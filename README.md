@@ -15,6 +15,6 @@ Git은 처음 써 봐서 아는 것이 없네요.
 😍
 제 소개는 여기까지 입니다.
 더 자세하게 쓰는 건 실력이 늘고 나서 추가해 볼게요. 💯
-그럼 Bye!
----
+그럼 **Bye!**
+
 <a href="https://github.com/nyeokinyeoki"><img src="https://img.shields.io/badge/Github-FFC8CD?style=flat-square&logo=GitHub&logoColor=Black"/></a>
